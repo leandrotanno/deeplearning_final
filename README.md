@@ -25,7 +25,7 @@ O CIFAR-10 é um dataset com 60.000 imagens coloridas de 32x32 pixels divididas 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/cnn-cifar10.git
+git clone https://github.com/leandrotanno/deeplearning_final
 cd cnn-cifar10
 ```
 
@@ -57,7 +57,7 @@ python main.py
 ## 📁 Estrutura do Projeto
 
 ```
-cnn-cifar10/
+deeplearning_final/
 ├── main.py
 ├── requirements.txt
 └── README.md
@@ -76,6 +76,3 @@ cnn-cifar10/
 - Curva de acurácia
 - Exemplos de predições com cores indicando acertos (verde) e erros (vermelho)
 
-## 📬 Contato
-
-Para dúvidas ou sugestões, abra uma issue ou envie uma mensagem para [Bruno.sb.bispo@gmail.com].
